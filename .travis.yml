@@ -46,3 +46,4 @@ after_failure:
 branches:
   only:
     - master
+    - improve_memory_usage_in_reduce
